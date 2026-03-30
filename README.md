@@ -80,14 +80,13 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-
-👉 (Add your Streamlit link here after deployment)
+👉 https://retail-sales-forecast-app.streamlit.app
 
 ---
 
 ## 📸 Screenshots
 
-(Add screenshots of your app here — highly recommended)
+<img width="1920" height="966" alt="Screenshot 2026-03-30 162947" src="https://github.com/user-attachments/assets/e42155fa-6a69-4017-a14c-b9481a1e6d0b" />
 
 ---
 
